@@ -1,2 +1,2 @@
-# Regular-Expression-to-NFA
-This program converts a given regular expression to NFA.
+# Regular-Expression-to-DFA-and-its-minimisation
+
