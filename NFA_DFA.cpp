@@ -90,11 +90,11 @@ void dfa(int nn){
         }
             string rs8=rem(s8);
             tt.push_back(rs8);
-            int stuti=0;
+            int tushar=0;
             for(int f=0;f<brr.size();f++){
-                if(same(rs8,brr[f])==1) stuti++;
+                if(same(rs8,brr[f])==1) tushar++;
             }
-            if(stuti==0){
+            if(tushar==0){
             brr.push_back(rs8);
             q.push(rs8);
             }
